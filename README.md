@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Pics App
+
+Pics App as part of Stephen Grider's Modern React with Redux course on Udemy.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
